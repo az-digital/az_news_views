@@ -1,6 +1,6 @@
-name: 'Arizona News Custom Views'
+name: 'Some other module'
 type: module
-description: 'Custom views for ua news.'
+description: 'yet another module'
 core_version_requirement: ^9
 package: The University of Arizona - News
 

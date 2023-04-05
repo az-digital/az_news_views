@@ -9,6 +9,9 @@ dependencies:
     - node
     - user
     - views_bootstrap
+  enforced:
+    module:
+      - az_news_views
 id: az_news_custom_views
 label: 'AZ News Custom views'
 module: views
